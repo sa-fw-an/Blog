@@ -28,6 +28,12 @@ This is a simple blog website built using Flask, a lightweight WSGI web applicat
 - pip install -r requirements.txt
 - set FLASK_APP=app.py
 - flask db init
-- flask db migrate
 - flask db upgrade
+- flask db migrate
+
 - flask run
+
+### Output
+![Screenshot 2024-10-03 114240](https://github.com/user-attachments/assets/ab224a58-2ff5-446b-bf2a-16d275b9c648)
+![Screenshot 2024-10-03 114232](https://github.com/user-attachments/assets/eb898aa7-956f-4d77-bcc5-34f1045a77bc)
+![Screenshot 2024-10-03 114211](https://github.com/user-attachments/assets/ed5a1980-870f-4543-953f-c9ae19ea1467)
